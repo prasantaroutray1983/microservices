@@ -1,0 +1,14 @@
+### PUT request createAPI
+PUT http://localhost:4000/patients/123e4567-e89b-12d3-a456-426614174001
+Content-Type: application/json
+
+{
+  "name": "holex11111 kumar",
+  "email": "daniel.lewis1@example.com",
+  "dateOfBirth": "1983-01-18",
+  "registeredDate": "2025-03-31",
+  "address": "987 Cedar St, Springfield"
+
+}
+
+###

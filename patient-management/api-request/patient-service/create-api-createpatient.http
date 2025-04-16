@@ -1,0 +1,14 @@
+### POST request createAPI
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "holex111 kumar",
+  "email": "daniel.lewis@example.com",
+  "dateOfBirth": "1983-01-18",
+  "registeredDate": "2025-03-31",
+  "address": "987 Cedar St, Springfield"
+
+}
+
+###
